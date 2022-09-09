@@ -35,7 +35,7 @@ footer:
       url: "https://www.instagram.com/centralnjdsa/"
       #    - label: "GitHub"
       #icon: "fab fa-fw fa-github"
-      url: "https://github.com/peninsuladsa"
+      #url: "https://github.com/peninsuladsa"
     - label: "Email"
       icon: "fa fa-envelope"
       url: "mailto:centralnj@dsanj.org"
