@@ -13,7 +13,7 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Central NJ DSA"
+title: "Central Jersey DSA"
 description: "Homepage for the Central New Jersey Democratic Socialists of America"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"

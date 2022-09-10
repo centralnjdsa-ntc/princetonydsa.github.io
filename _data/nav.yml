@@ -2,10 +2,10 @@
 header:
   - title: "Our Work"
     url: "our-work"
-    description: "Check out what Central NJ DSA is working on!"
+    description: "Check out what Central Jersey DSA is working on!"
   - title: "Statements"
     url: "/statements/"
-    description: "Link to Central NJ DSA's Chapter Statements"
+    description: "Link to Central Jersey DSA's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Join DSA!"
@@ -14,11 +14,11 @@ header:
     description: "Chapter Events Calendar"
   - title: "Chapter Bylaws"
     url: "/bylaws/"
-    description: "Here are the bylaws for Central NJ DSA"
+    description: "Here are the bylaws for Central Jersey DSA"
 
 # footer links
 footer:
-  - owner: "Central NJ DSA"
+  - owner: "Central Jersey DSA"
     url: # link if any
     description: # tool tip for your url
     bio: "This is your chapter of the Democratic Socialists of America" # short bio
