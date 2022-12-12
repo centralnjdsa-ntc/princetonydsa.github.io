@@ -16,7 +16,7 @@ We are about disability liberation, disability justice, community access, and ed
 
 Email: [CNJDSA.DisabilitySolidarity@gmail.com](mailto:CNJDSA.DisabilitySolidarity@gmail.com)
 
-### Labor
+### Labor:
 
 As workers, we must sell our labor power to survive-it determines our relation to production, and is the primary battleground for improving our conditions and changing the world. We have a number of ongoing campaigns at any time, are working with NNJ and SJ labor committees to exchange tactics and coordinate trainings and events and campaigns, and assist local unions, individual workers, and worker centers in their struggles at the workplace, as well as train our own members to organize their workplaces.
 
