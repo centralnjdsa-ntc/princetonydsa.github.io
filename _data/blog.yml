@@ -1,6 +1,6 @@
 # blog authors
 authors:
-  - name: "Princeton DSA"
+  - name: "Princeton YDSA"
     headline: # byline? 
     avatar: #"awesome_author.svg" # display_picture.jpg
     follow:
