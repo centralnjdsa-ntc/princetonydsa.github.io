@@ -4,7 +4,7 @@ title: "Our Work"
 permalink: /our-work/
 ---
 
-Want to get involved with our work? Check out our [Get Involved](http://princeton.dsanj.org/get-involved/) section to attend a meeting!
+Want to get involved with our work? Check out our [Get Involved](http://princeton.dsanj.org/get-involved/) section to attend a general meeting!
 
 ### Ecosocialist Working Group:
 
