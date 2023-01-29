@@ -9,12 +9,9 @@ header:
   - title: "Get Involved"
     url: "/get-involved/"
     description: "Join DSA!"
-  - title: "Events Calendar"
-    url: "/calendar/"
-    description: "Chapter Events Calendar"
   - title: "Chapter Bylaws"
     url: "/bylaws/"
-    description: "Here are the bylaws for Princeton YDSA"
+    description: "Link to the Constitiution of Princeton YDSA"
 
 # footer links
 footer:
@@ -40,9 +37,6 @@ footer:
       icon: "fa fa-envelope"
       url: "mailto:yds@princeton.edu"
   - feed:
-    - label: "Sitemap"
-      icon: "fas fa-sitemap"
-      url: "/sitemap.xml"
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
