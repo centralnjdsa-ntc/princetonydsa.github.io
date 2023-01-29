@@ -10,7 +10,7 @@ Want to get involved with our work? Check out our [calendar](../calendar) to att
 
 We are organizing around resource extraction and public transit. The ultimate goal of the group is to help create a society that prioritizes the health of the planet, indigenous rights, efficient mass transit, and the well-being of all people over profit and corporate interests.
 
-* Contact Martin to join the Ecosocialist WhatsApp group, where we discuss between meetings.
+* [Contact Martin](mailto:mmastnak@princeton.edu) to join the Ecosocialist WhatsApp group, where we discuss between meetings.
 
 ### Labor Working Group:
 
@@ -20,4 +20,4 @@ Workers must sell their labor power to survive--it determines our relation to pr
 
 ### Political Education Working Group:
 
-We bring in speakers like Sara Mughal of Starbucks Workers United, Noam Chomsky, and more. Interested in attending or having your own education event? Contact us at yds@princeton.edu.
+We bring in speakers like Sara Mughal of Starbucks Workers United, Noam Chomsky, and more. Interested in attending or having your own education event? [Contact us](mailto:yds@princeton.edu)!
