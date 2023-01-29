@@ -40,9 +40,9 @@ footer:
       icon: "fa fa-envelope"
       url: "mailto:yds@princeton.edu"
   - feed:
-    - label: "Sitemap"
+    <! -- - label: "Sitemap"
       icon: "fas fa-sitemap"
-      url: "/sitemap.xml"
+      url: "/sitemap.xml" -->
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
