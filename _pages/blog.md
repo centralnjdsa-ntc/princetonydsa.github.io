@@ -4,7 +4,7 @@ title: "Statements"
 permalink: /statements/
 ---
 
-All of our recent statements
+Our recent statements will appear here.
 
 <div class="row my-5">
   {% for post in site.posts %}
