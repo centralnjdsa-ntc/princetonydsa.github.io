@@ -13,7 +13,7 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Princeton DSA"
+title: "Princeton YDSA"
 description: "Homepage for the Princeton Young Democratic Socialists of America"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
