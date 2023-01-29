@@ -15,13 +15,13 @@ header:
 
 # footer links
 footer:
-  - owner: "Princeton YDSA"
+  #- owner: "Princeton YDSA"
     url: # link if any
     description: # tool tip for your url
     bio: "This is your chapter of the Young Democratic Socialists of America" # short bio
     address: "PO Box 1038 New York, NY 10272" # address or region
   - social:
-    - label: "Facebook"
+    #- label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "https://www.facebook.com/YDSprinceton"
     - label: "Twitter"
