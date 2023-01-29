@@ -24,9 +24,9 @@ footer:
     bio: # short bio
     address: "PO Box 1038 New York, NY 10272" # address or region
   - social:
-    <!-- - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/YDSprinceton" -->
+  # - label: "Facebook"
+      #icon: "fab fa-fw fa-facebook"
+      # url: "https://www.facebook.com/YDSprinceton"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ydsa_princeton"
@@ -40,9 +40,9 @@ footer:
       icon: "fa fa-envelope"
       url: "mailto:yds@princeton.edu"
   - feed:
-    <! -- - label: "Sitemap"
-      icon: "fas fa-sitemap"
-      url: "/sitemap.xml" -->
+    # - label: "Sitemap"
+      # icon: "fas fa-sitemap"
+      # url: "/sitemap.xml"
     - label: "RSS"
       icon: "fas fa-fw fa-rss-square"
       url: "/feed.xml"
