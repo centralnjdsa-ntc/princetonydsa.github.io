@@ -13,7 +13,7 @@ permalink: /officers/
 * David Beeson (Social Media Manager)
 * Alessandro Troncoso (Grievance Officer)
 
-### Working Group Officers
+### Working Group Officers:
 * Martin Mastnak (Ecosocialist WG Chair)
 * Bryce Springfield (Labor WG Chair)
 * Alan Plotz (Political Education WG Co-Chair)
