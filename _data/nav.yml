@@ -17,6 +17,7 @@ header:
     description: "Here are the bylaws for Princeton YDSA"
   - title: "Officers"
     url: "/officers/"
+    description: "Here is a list of current officers."
 
 # footer links
 footer:
