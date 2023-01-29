@@ -4,7 +4,7 @@ title: "Our Work"
 permalink: /our-work/
 ---
 
-Want to get involved with our work? Check out our [calendar](../calendar) to attend a meeting!
+Want to get involved with our work? Check out our [Get Involved](../get-involved) section to attend a meeting!
 
 ### Ecosocialist Working Group:
 
