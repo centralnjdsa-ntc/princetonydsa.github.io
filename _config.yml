@@ -13,15 +13,15 @@ bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
 lang: "en_US"
-title: "Central Jersey DSA"
-description: "Homepage for the Central New Jersey Democratic Socialists of America"
+title: "Princeton DSA"
+description: "Homepage for the Princeton Young Democratic Socialists of America"
 url: # site url e.g. "https://manid2.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 author: mani_d2
 twitter:
   username: mani_d2 # should be site's username
   card: summary
-logo: assets/images/smalllogo.png # PNG is SEO friendly
+logo: assets/images/smalllogo.jpg # PNG is SEO friendly
 # use below when there are social links for site
 #social:
 #  name: Mani Kumar
