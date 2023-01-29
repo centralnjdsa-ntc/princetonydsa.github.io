@@ -4,6 +4,6 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-Want to get involved with Central NJ DSA? [Join us!](https://act.dsausa.org/donate/dsa_recommit_2022/)
+Want to get involved with Princeton YDSA? [Join us!](https://forms.gle/t3kyXPW2Tu1MK4BB8)
 
-Join us at a Chapter meeting or event! Check out [the chapter linktree](https://linktr.ee/CentralJerseyDSA) for upcoming events!
+Check out [the chapter linktree](https://linktr.ee/princetonydsa) for our social media and relevant articles!
