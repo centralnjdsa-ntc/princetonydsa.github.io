@@ -20,4 +20,4 @@ Workers must sell their labor power to survive--it determines our relation to pr
 
 ### Political Education Working Group:
 
-We bring in speakers like Sara Mughal of Starbucks Workers United, Noam Chomsky, and more. Interested in attending or having your own education event? [Contact us](mailto:yds@princeton.edu)!
+We bring in speakers like Sara Mughal of Starbucks Workers United, Noam Chomsky, and more. Interested in attending or having your own education event? Contact [Alan](ap3169@princeton.edu) or [Thomas](tc6305@princeton.edu)!
