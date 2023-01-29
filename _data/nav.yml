@@ -15,6 +15,8 @@ header:
   - title: "Chapter Bylaws"
     url: "/bylaws/"
     description: "Here are the bylaws for Princeton YDSA"
+  - title: "Officers"
+    url: "/officers/"
 
 # footer links
 footer:
