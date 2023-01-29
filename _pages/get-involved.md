@@ -8,7 +8,7 @@ Want to get involved with Princeton YDSA? [Join us](https://forms.gle/t3kyXPW2Tu
 
 Check out [the chapter linktree](https://linktr.ee/princetonydsa) for our social media and relevant articles.
 
-The bulk of our work comes from the working groups.
+The bulk of our work comes from the working groups:
 
 ### Ecosocialist Working Group
 
