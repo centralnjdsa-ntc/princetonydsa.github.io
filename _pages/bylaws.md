@@ -135,7 +135,7 @@ ARTICLE VIII. DISSOLUTION CLAUSE
 1. Should the organization be dissolved due to lack of interest or other reasons, it is the responsibility of the current Co-Chairs to notify the Office of the Dean of Undergraduate Students and Central New Jersey Democratic Socialists of America that they have disbanded and provide reason. The Secretary-Treasurer is responsible for notifying ODUS that any allocated funding left will not be used unless Princeton YDSA or an equivalent Princeton University chapter of Young Democratic Socialists of America is re-established by a later cohort.
 
 
-Article IX. Committees and Working Groups 
+Article IX. RATIFICATION AND AMENDMENT 
 ---
 
 1. This constitution will take effect following a two-thirds (⅔) vote of approval by present members at the general meeting in which ratification of this constitution is proposed, or by participating members during asynchronous voting.
