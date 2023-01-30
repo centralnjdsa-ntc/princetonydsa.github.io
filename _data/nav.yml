@@ -21,7 +21,7 @@ header:
 
 # links
 footer:
-  - owner: "Princeton YDSA 🌹" # section title
+  - owner: "Princeton YDSA" # section title
     url: # link if any
     description: # tool tip for your url
     bio: # short bio
