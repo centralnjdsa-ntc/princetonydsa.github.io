@@ -18,7 +18,7 @@ We are organizing around resource extraction and public transit. The ultimate go
 
 ### Labor Working Group
 
-Workers must sell their labor power to survive--it determines our relation to production, and is the primary battleground for improving working class conditions and changing the organization of production. We are currently working on campaigns related to building labor unions as a step toward dignity for workers and workplace democracy, with a longer-term goal toward worker ownership and control of production.
+Workers must sell their labor power to survive--it determines our relation to production, and is the primary battleground for improving working class conditions and changing the organization of production. We are currently working on campaigns related to building labor unions as a step toward dignity for workers, with a longer-term goal toward ownership and democratic control of production by workers.
 
 [Contact Bryce](mailto:brycespringfield@princeton.edu) to join the Labor WhatsApp group, where we discuss between meetings.
 
