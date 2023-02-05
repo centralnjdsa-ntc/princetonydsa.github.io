@@ -5,8 +5,8 @@ permalink: /officers/
 ---
 
 ### Steering Committee:
+* Bassit Fijabi (Co-Chair)
 * Bryce Springfield (Co-Chair)
-* Antonio McHugh (Co-Chair)
 * Jazmin Morales (Secretary-Treasurer)
 * Celine Pham (Social Officer)
 * Thomas Coulouras (Social Officer)
