@@ -8,7 +8,7 @@ permalink: /officers/
 * Bassit Fijabi (Co-Chair)
 * Bryce Springfield (Co-Chair)
 * Jazmin Morales (Secretary-Treasurer)
-* Celine Pham (Social Officer)
+* _Vacant_ (Social Officer)
 * David Beeson (Social Media Manager)
 * Alessandro Troncoso (Grievance Officer)
 
@@ -17,3 +17,7 @@ permalink: /officers/
 * Bryce Springfield (Labor WG Chair)
 * Alan Plotz (Political Education WG Co-Chair)
 * Thomas Coulouras (Political Education WG Co-Chair)
+
+## Past Officers:
+* Antonio McHugh (Former Co-Chair)
+* Celine Pham (Former Social Officer)
