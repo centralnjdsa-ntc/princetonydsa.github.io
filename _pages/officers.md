@@ -18,6 +18,6 @@ permalink: /officers/
 * Alan Plotz (Political Education WG Co-Chair)
 * Thomas Coulouras (Political Education WG Co-Chair)
 
-## Past Officers:
+#### Past Officers:
 * Antonio McHugh (Former Co-Chair)
 * Celine Pham (Former Social Officer)
