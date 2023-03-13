@@ -19,4 +19,4 @@ permalink: /officers/
 * Thomas Coulouras (Political Education WG Co-Chair)
 
 #### Past Officers:
-* Antonio McHugh (Former Co-Chair)
+* Antonio McHugh (Co-Chair, Fall 2022)
