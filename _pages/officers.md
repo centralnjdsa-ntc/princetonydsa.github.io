@@ -8,7 +8,7 @@ permalink: /officers/
 * Bassit Fijabi (Co-Chair)
 * Bryce Springfield (Co-Chair)
 * Jazmin Morales (Secretary-Treasurer)
-* _Vacant_ (Social Officer)
+* Celine Pham (Social Officer)
 * David Beeson (Social Media Manager)
 * Alessandro Troncoso (Grievance Officer)
 
@@ -20,4 +20,3 @@ permalink: /officers/
 
 #### Past Officers:
 * Antonio McHugh (Former Co-Chair)
-* Celine Pham (Former Social Officer)
