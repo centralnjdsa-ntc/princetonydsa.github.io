@@ -9,6 +9,7 @@ permalink: /officers/
 * Bryce Springfield (Co-Chair)
 * Jazmin Morales (Secretary-Treasurer)
 * Celine Pham (Social Officer)
+* Thomas Coulouras (Social Officer)
 * David Beeson (Social Media Manager)
 * Alessandro Troncoso (Grievance Officer)
 
