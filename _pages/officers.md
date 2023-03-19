@@ -5,8 +5,8 @@ permalink: /officers/
 ---
 
 ### Steering Committee:
-* Bassit Fijabi (Co-Chair)
-* Bryce Springfield (Co-Chair)
+* [Bassit Fijabi](mailto:afijabi@princeton.edu) (Co-Chair)
+* [Bryce Springfield](mailto:brycespringfield@princeton.edu) (Co-Chair)
 * Jazmin Morales (Secretary-Treasurer)
 * Celine Pham (Social Officer)
 * Thomas Coulouras (Social Officer)
