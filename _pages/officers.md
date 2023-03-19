@@ -4,7 +4,7 @@ title: "Officers"
 permalink: /officers/
 ---
 
-Contact us: yds@princeton.edu
+To reach us, send an email to yds@princeton.edu.
 
 ### Steering Committee:
 * Bassit Fijabi (Co-Chair)
