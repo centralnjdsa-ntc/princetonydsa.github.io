@@ -4,9 +4,11 @@ title: "Officers"
 permalink: /officers/
 ---
 
+Contact us: yds@princeton.edu
+
 ### Steering Committee:
-* [Bassit Fijabi](mailto:afijabi@princeton.edu) (Co-Chair)
-* [Bryce Springfield](mailto:brycespringfield@princeton.edu) (Co-Chair)
+* Bassit Fijabi (Co-Chair)
+* Bryce Springfield (Co-Chair)
 * Jazmin Morales (Secretary-Treasurer)
 * Celine Pham (Social Officer)
 * Thomas Coulouras (Social Officer)
