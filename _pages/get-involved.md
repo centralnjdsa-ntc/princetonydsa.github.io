@@ -24,4 +24,4 @@ Workers must sell their labor power to survive--it determines our relation to pr
 
 We bring in speakers like Sara Mughal of Starbucks Workers United and Noam Chomsky, alongside skill sharing and trainings to build organizing power and education. Interested in attending or having your own education event? Contact [Alan](mailto:ap3169@princeton.edu) or [Thomas](mailto:tc6305@princeton.edu)!
 
-<-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cHJpbmNldG9ueWRzYUBnbWFpbC5jb20&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> --!>
+<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=cHJpbmNldG9ueWRzYUBnbWFpbC5jb20&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
