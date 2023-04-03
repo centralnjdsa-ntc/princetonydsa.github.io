@@ -5,22 +5,22 @@ header:
     #description: "Check out what Princeton YDSA is working on!"
   - title: "statements"
     url: "/statements/"
-    description: "Link to Princeton YDSA's Chapter Statements"
+    description: 
   - title: "get involved"
     url: "/get-involved/"
-    description: "join dsa!"
+    description: 
   #- title: "Events Calendar"
     #url: "/calendar/"
     #description: "Chapter Events Calendar"
   - title: "bylaws"
     url: "/bylaws/"
-    description: "Here are the bylaws for Princeton YDSA"
+    description: 
   - title: "officers"
     url: "/officers/"
-    description: "Here is a list of current officers."
+    description: 
   - title: "donate"
     url: "/donate/"
-    description: "Here is how to donate to Princeton YDSA"
+    description: 
 
 # links
 footer:
