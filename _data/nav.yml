@@ -12,9 +12,9 @@ header:
   #- title: "Events Calendar"
     #url: "/calendar/"
     #description: "Chapter Events Calendar"
-  - title: "bylaws"
-    url: "/bylaws/"
-    description: 
+  #- title: "bylaws"
+    #url: "/bylaws/"
+    #description: 
   - title: "officers"
     url: "/officers/"
     description: 
