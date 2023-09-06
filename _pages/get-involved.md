@@ -20,8 +20,11 @@ Workers must sell their labor power to survive--it determines our relation to pr
 
 The Labor WG is currently focused on supporting campus workers at Princeton facing declining real wages and restrictions to their freedom of expression, as well as striking Starbucks workers.
 
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/ab1c64f6-8d26-4790-a9c7-c8b8309fa106" width="500"/>
+
 ### Political Education
 
 We bring in speakers like [Sara Mughal](https://www.dailyprincetonian.com/article/2022/11/starbucks-organizer-sara-mughal-talks-unionization-ydsa-whig-clio-event) of Starbucks Workers United, [Noam Chomsky](https://www.dailyprincetonian.com/article/2023/04/father-of-modern-linguistics-noam-chomsky-on-politics-and-power-student-activism-2023-princeton), and left economists Ellora Derenoncourt, Mark Paul, and Santana Frutuoso. We also support each other through skill sharing, trainings, and internal debates to build organizing power and education.
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/3f9321c6-f19a-4073-9587-b325decf4a96" width="500"/>
 
 Interested in attending or having your own education event? Contact yds@princeton.edu to join the GroupMe!
