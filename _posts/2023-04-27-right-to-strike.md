@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "The invisible and ignored struggles of Princeton’s service workers"
+title: "By restricting strikes, Princeton silences workers' free speech"
 permalink: /princeton-service-workers/
 tag: ["labor", "SEIU 175", "campus labor"]
 short_description: "Princeton's service workers have been mistreated and underappreciated by the University for too long"
