@@ -14,6 +14,8 @@ We are organizing around resource extraction and public transit. The ultimate go
 
 The Ecosocialism WG is currently focused on the University's financial involvement in lithium extraction at Thacker Pass, as well as education on public mass transit and indigenous rights.
 
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/bd2b41a2-19d4-4ed7-bb10-ffd4955753eb" width="350"/>
+
 ### Labor
 
 Workers must sell their labor power to survive--it determines our relation to production, and is the primary battleground for improving working class conditions and changing the organization of production. We work to build labor union power as a step toward ownership and democratic control of production by workers and dignifying workers.
