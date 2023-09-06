@@ -5,7 +5,7 @@ permalink: /princeton-service-workers/
 tag: labor, SEIU 175
 short_description: "Princeton's service workers have been mistreated and underappreciated by the University for too long"
 ---
-<i>Published in [The Daily Princetonian](https://www.dailyprincetonian.com/article/2023/04/princeton-workers-pay-conditions-cost-of-living-wages)</i>
+<i>Published in</i> [The Daily Princetonian](https://www.dailyprincetonian.com/article/2023/04/princeton-workers-pay-conditions-cost-of-living-wages)<i>.</i>
 
 The following testimonial comes directly from a service worker at Princeton University, presenting an authentic sentiment of inadequate financial support and an uncaring institution; it is just one of many voices of frustration and despair on this campus. It has only been edited for clarity:
 
