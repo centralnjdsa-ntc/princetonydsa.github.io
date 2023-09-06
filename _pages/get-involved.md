@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-Want to get involved with Princeton YDSA? [Join our email list](https://my.princeton.edu/yds/club_signup) and attend our next general meeting! Contact [yds@princeton.edu](mailto:yds@princeton.edu) to join the GroupMe chat, where we discuss between meetings and send event reminders.
+Want to get involved with Princeton YDSA? Just sign our [petition](https://forms.gle/78hi8ZDKdDEN1C55A) for fair working conditions at Princeton here and check the box to join our mailing list! You'll be up-to-date on our meeting times, actions and events, and our GroupMe chat. Contact [yds@princeton.edu](mailto:yds@princeton.edu) for any questions.
 
 The bulk of our work comes from the working groups:
 
