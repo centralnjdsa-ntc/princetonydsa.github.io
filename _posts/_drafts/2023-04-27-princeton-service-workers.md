@@ -2,7 +2,7 @@
 layout: post 
 title: "The invisible and ignored struggles of Princeton’s service workers"
 permalink: /princeton-service-workers/
-tag: labor, SEIU 175
+tag: ["labor", "SEIU 175", "campus labor"]
 short_description: "Princeton's service workers have been mistreated and underappreciated by the University for too long"
 ---
 <i>Published in</i> [The Daily Princetonian](https://www.dailyprincetonian.com/article/2023/04/princeton-workers-pay-conditions-cost-of-living-wages)<i>.</i>
