@@ -4,7 +4,7 @@ title: "Donate"
 permalink: /donate/
 ---
 
-Tax-deductable donations for YDSA at Princeton can be sent to  
+Tax-deductable donations for Princeton YDSA can be sent to  
 **Gift Records  
 P.O. Box 5357  
 Princeton, NJ 08540-5357**
