@@ -3,7 +3,7 @@ layout: post
 title: "By restricting strikes, Princeton silences workers' free speech"
 permalink: /princeton-service-workers/
 tag: ["labor", "SEIU 175", "campus labor"]
-short_description: "Princeton's service workers have been mistreated and underappreciated by the University for too long"
+short_description: "If Princeton University is to support free speech, it must support workers' free speech."
 ---
 <i>Published in</i> [The Daily Princetonian](https://www.dailyprincetonian.com/article/2023/04/princeton-workers-union-local-175-free-speech-silenced)<i>.</i>
 
