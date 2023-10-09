@@ -10,8 +10,8 @@ To reach us, please send an email to ydsa@princeton.edu.
 * Abby Leibowitz (Co-Chair)
 * Abe Jacobs (Co-Chair)
 * Rowan Johnson (Treasurer)
-* David Beeson (Social Media Co-Chair)
-* Bryce Springfield (Social Media Co-Chair)
+* David Beeson (Social Media Manager)
+* Bryce Springfield (Social Media Manager)
 * Emery Jones-Flores (Grievance Officer)
 
 #### Working Group Officers:
