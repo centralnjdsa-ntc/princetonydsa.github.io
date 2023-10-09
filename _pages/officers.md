@@ -4,18 +4,19 @@ title: "Officers"
 permalink: /officers/
 ---
 
-To reach us, please send an email to yds@princeton.edu.
+To reach us, please send an email to ydsa@princeton.edu.
 
 ### Steering Committee:
-* Bassit Fijabi (Co-Chair)
-* Bryce Springfield (Co-Chair)
-* James Morales (Secretary-Treasurer)
-* Celine Pham (Social Officer)
-* David Beeson (Social Media Manager)
-* Alessandro Troncoso (Grievance Officer)
+* Abby Leibowitz (Co-Chair)
+* Abe Jacobs (Co-Chair)
+* Rowan Johnson (Treasurer)
+* David Beeson (Social Media Co-Chair)
+* Bryce Springfield (Social Media Co-Chair)
+* Emery Jones-Flores (Grievance Officer)
 
-### Working Group Officers:
-* Martin Mastnak (Ecosocialist WG Chair)
-* Bryce Springfield (Labor WG Chair)
-* Alan Plotz (Political Education WG Co-Chair)
-* _Anonymous_ (Political Education WG Co-Chair)
+#### Working Group Officers:
+* Lake Liao (Ecosocialism)
+* Bryce Springfield (Labor)
+* Zeke Douglas-Rosenthal (Political Education)
+* Rowan Johnson (Political Education)
+* Abby Leibowitz (University Democracy)
