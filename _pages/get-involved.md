@@ -4,7 +4,7 @@ title: "Get Involved"
 permalink: /get-involved/
 ---
 
-Want to get involved with Princeton YDSA? Just sign our [petition](https://forms.gle/78hi8ZDKdDEN1C55A) for fair working conditions at Princeton here and check the box to join our mailing list! You'll be up-to-date on our meeting times, actions and events, and our GroupMe chat. Contact [yds@princeton.edu](mailto:yds@princeton.edu) for any questions.
+Want to get involved with Princeton YDSA? Just sign our [petition](https://forms.gle/78hi8ZDKdDEN1C55A) for fair working conditions at Princeton here and check the box to join our mailing list! You'll be up-to-date on our meeting times, actions and events, and our GroupMe chat. Contact [ydsa@princeton.edu](mailto:ydsa@princeton.edu) for any questions.
 
 The bulk of our work comes from the working groups:
 
@@ -30,4 +30,4 @@ We bring in speakers like [Sara Mughal](https://www.dailyprincetonian.com/articl
 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/3f9321c6-f19a-4073-9587-b325decf4a96" width="500"/>
 
-Interested in attending or having your own education event? Contact yds@princeton.edu to join the GroupMe!
+Interested in attending or having your own education event? Contact ydsa@princeton.edu to join the GroupMe!
