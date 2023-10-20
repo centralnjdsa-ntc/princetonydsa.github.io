@@ -44,7 +44,7 @@ Coordinator: Abdul-Bassit Fijabi
 
 The capitalist system is not merely about class alone, but also its intersection oppressions involving race. We see this in the Black Lives Matter movement, which highlights how police and prisons coordinate to target and commit violence against vulnerable communities and carry out systemic racism; with Stop Cop City, the movement to end playgrounds for police to train for urban warfare; in our immigration system which commits violence every day against migrants and discriminates against migrant workers; and in the US's military aid to some of the most egregious human rights offenders on the planet.
 
-We have cosponsored events supporting the Temporary Workers' Bill of Rights and Domestic Workers' Bill of Rights in New Jersey and participated in Jewish- and Palestinian-led protests to end US aid supporting the ethnic cleansing and genocide of Palestinians. We also plan to coordinate activities to say NO to the construction of Atlanta's Cop City, so stay tuned!
+We have cosponsored events supporting the Temporary Workers' Bill of Rights and Domestic Workers' Bill of Rights in New Jersey and participated in Jewish- and Palestinian-led protests to end US aid supporting the ethnic cleansing and genocide of Palestinians. We also plan to coordinate activities to stand in solidarity with Atlanta activists and say NO to the construction of Cop City, so stay tuned!
 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/fc998325-aa4e-46ac-963f-10cac52ca301" width=300/>
 
