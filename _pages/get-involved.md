@@ -46,7 +46,7 @@ The capitalist system is not merely about class alone, but also its intersection
 
 We have cosponsored events supporting the Temporary Workers' Bill of Rights and Domestic Workers' Bill of Rights in New Jersey and participated in Jewish- and Palestinian-led protests to end US aid supporting the ethnic cleansing and genocide of Palestinians. We also plan to coordinate activities to say NO to the construction of Atlanta's Cop City, so stay tuned!
 
-<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/cc950086-3175-407e-a702-0674d96bcfde" width="300"/>
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/fc998325-aa4e-46ac-963f-10cac52ca301" width=300>
 
 
 ### University Democracy
