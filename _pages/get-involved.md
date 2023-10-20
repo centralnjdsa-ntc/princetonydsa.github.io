@@ -16,7 +16,8 @@ Capitalism is incompatible with the survival of our planet! The ultimate goal of
 The Ecosocialism WG is currently focused on building public renewables and public transit in New Jersey, and rejecting Princeton University's financial involvement in lithium extraction in indigenous territories.
 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/f1c5aa23-5ad2-4933-87db-7ebb9a6a5363" width=500>
-<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/9f01fc05-a952-4f73-bfa1-4f7e8ec5b9eb" width=500>
+
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/9f01fc05-a952-4f73-bfa1-4f7e8ec5b9eb" width=500/>
 
 
 ### Labor
@@ -44,6 +45,9 @@ Coordinator: Abdul-Bassit Fijabi
 The capitalist system is not merely about class alone, but also its intersection oppressions involving race. We see this in the Black Lives Matter movement, which highlights how police and prisons coordinate to target and commit violence against vulnerable communities and carry out systemic racism; with Stop Cop City, the movement to end playgrounds for police to train for urban warfare; in our immigration system which commits violence every day against migrants and discriminates against migrant workers; and in the US's military aid to some of the most egregious human rights offenders on the planet.
 
 We have cosponsored events supporting the Temporary Workers' Bill of Rights and Domestic Workers' Bill of Rights in New Jersey and participated in Jewish- and Palestinian-led protests to end US aid supporting the ethnic cleansing and genocide of Palestinians. We also plan to coordinate activities to say NO to the construction of Atlanta's Cop City, so stay tuned!
+
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/cc950086-3175-407e-a702-0674d96bcfde" width="300"/>
+
 
 ### University Democracy
 Coordinator: Abigail Leibowitz
