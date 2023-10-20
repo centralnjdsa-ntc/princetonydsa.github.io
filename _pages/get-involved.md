@@ -11,11 +11,12 @@ The bulk of our work comes from the working groups:
 ### Ecosocialism
 Coordinator: Lake Liao
 
-We are organizing around resource extraction and public transit. The ultimate goal of the group is to help create a society that prioritizes the health of the planet, indigenous rights, democratically-controlled renewable energy, efficient mass public transit, and the well-being of all people over profit and corporate interests.
+Capitalism is incompatible with the survival of our planet! The ultimate goal of the group is to help create a society that prioritizes the formation of democratically-controlled renewable energy and efficient mass public transit, the defense of indigenous rights, and the welfare of all people over profit and corporate interests.
 
-The Ecosocialism WG is currently focused on building public renewables and public transit in New Jersey, and rejecting the University's financial involvement in lithium extraction in indigenous territories.
+The Ecosocialism WG is currently focused on building public renewables and public transit in New Jersey, and rejecting Princeton University's financial involvement in lithium extraction in indigenous territories.
 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/f1c5aa23-5ad2-4933-87db-7ebb9a6a5363" width=500>
+<img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/9f01fc05-a952-4f73-bfa1-4f7e8ec5b9eb" width=500>
 
 
 ### Labor
@@ -23,7 +24,7 @@ Coordinator: Bryce Springfield
 
 Workers must sell their labor power to survive--it determines our relation to production, and is the primary battleground for improving working class conditions and changing the organization of production. We work to build labor union power as a step toward complete ownership and democratic control of production by workers, and more dignity for working-class people.
 
-The Labor WG is currently focused on supporting Princeton University workers facing declining real wages and restrictions to their freedom of expression, as well as striking UAW and Starbucks workers.
+The Labor WG is currently focused on supporting Princeton University workers facing declining real wages and restrictions to their freedom of expression, as well as striking UAW and Starbucks workers. Please contact us if you are an undergraduate worker or a staff worker, as we are collecting information about working conditions!
 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/d0090106-abc4-4729-9910-6592829b697e" width="500"/>
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/ab1c64f6-8d26-4790-a9c7-c8b8309fa106" width="500"/>
