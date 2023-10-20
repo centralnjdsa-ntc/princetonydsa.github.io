@@ -14,9 +14,10 @@ To reach us, please send an email to ydsa@princeton.edu.
 * Bryce Springfield (Social Media Manager)
 * Emery Jones-Flores (Grievance Officer)
 
-#### Working Group Officers:
+#### Working Group Coordinators:
 * Lake Liao (Ecosocialism)
 * Bryce Springfield (Labor)
 * Zeke Douglas-Rosenthal (Political Education)
 * Rowan Johnson (Political Education)
+* Bassit Fijabi (Racial Justice)
 * Abby Leibowitz (University Democracy)
