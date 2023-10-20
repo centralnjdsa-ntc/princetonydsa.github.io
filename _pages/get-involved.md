@@ -16,7 +16,6 @@ Capitalism is incompatible with the survival of our planet! The ultimate goal of
 The Ecosocialism WG is currently focused on building public renewables and public transit in New Jersey, and rejecting Princeton University's financial involvement in lithium extraction in indigenous territories.
 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/f1c5aa23-5ad2-4933-87db-7ebb9a6a5363" width=500>
-
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/9f01fc05-a952-4f73-bfa1-4f7e8ec5b9eb" width=500/>
 
 
