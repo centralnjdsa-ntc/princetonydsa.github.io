@@ -11,7 +11,7 @@ The bulk of our work comes from the working groups:
 ### Ecosocialism
 Coordinator: Lake Liao
 
-Capitalism is incompatible with the survival of our planet! The ultimate goal of the group is to help create a society that prioritizes the formation of democratically-controlled renewable energy and efficient mass public transit, the defense of indigenous rights, and the welfare of all people over profit and corporate interests.
+Capitalism is incompatible with the survival of our planet! The ultimate goal of the group is to help create a society that prioritizes the formation of democratically-controlled renewable energy and efficient mass public transit infrastructure, the defense of indigenous rights, and the welfare of all people over profit and corporate interests.
 
 The Ecosocialism WG is currently focused on building public renewables and public transit in New Jersey, and rejecting Princeton University's financial involvement in lithium extraction in indigenous territories.
 
