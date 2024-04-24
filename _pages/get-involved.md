@@ -44,7 +44,7 @@ We have cosponsored events supporting the Temporary Workers' Bill of Rights and 
 <img src="https://github.com/centralnjdsa-ntc/princetonydsa.github.io/assets/115911467/fc998325-aa4e-46ac-963f-10cac52ca301" width=300/>
 
 ### Ecosocialism
-Coordinator: Lake Liao
+Coordinator: _Vacant_
 
 Capitalism is incompatible with the survival of our planet! The ultimate goal of the group is to help create a society that prioritizes the formation of democratically-controlled renewable energy and efficient mass public transit infrastructure, the defense of indigenous rights, and the welfare of all people over profit and corporate interests.
 
