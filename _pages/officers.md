@@ -21,4 +21,3 @@ To reach us, please send an email to ydsa@princeton.edu.
 * Zeke Douglas-Rosenthal (Political Education Co-Coordinator)
 * Rowan Johnson (Political Education Co-Coordinator)
 * Bassit Fijabi (Racial Justice Coordinator)
-* 
