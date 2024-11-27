@@ -7,17 +7,17 @@ permalink: /officers/
 To reach us, please send an email to ydsa@princeton.edu.
 
 ### Steering Committee:
-* Abe Jacobs (Co-Chair)
 * Rowan Johnson (Co-Chair)
-* Zeke Douglas-Rosenthal (Treasurer)
+* Thomas Coulouras (Co-Chair)
+* Fifi Ball (Treasurer)
 * Mell Aguiar (Social Events Officer)
+* Madi Zink (Social Events Officer)
 * David Beeson (Social Media Manager)
 * Bryce Springfield (Social Media Manager)
 * Emery Jones-Flores (Grievance Officer)
 
 #### Working Group Coordinators:
 * Bryce Springfield (Labor Coordinator)
-* Abby Leibowitz (Electoral Coordinator)
-* Zeke Douglas-Rosenthal (Political Education Co-Coordinator)
-* Rowan Johnson (Political Education Co-Coordinator)
-* Bassit Fijabi (Racial Justice Coordinator)
+* Twyla Colburn (Political Education Co-Coordinator)
+* Annabelle Luo (Political Education Co-Coordinator)
+* Zach Goldberg (Ecosocialism Coordinator)
